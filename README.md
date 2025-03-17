@@ -2,7 +2,9 @@
 
 Welcome to my **Flutter-based Food Delivery App**, a seamless and efficient food ordering solution featuring a powerful **admin panel**, **Firebase integration**, and **Stripe-powered wallet payments**. This project is designed for a smooth user experience, allowing restaurants to manage food categories while ensuring secure transactions.
 
-
+[![Flutter](https://img.shields.io/badge/Flutter-v2.10.5-blue)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-v2.18-blue)](https://dart.dev/)
+[![Stripe](https://img.shields.io/badge/Stripe-Payments-blueviolet)](https://stripe.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-v9.0-yellow)](https://firebase.google.com/)
 [![Firestore](https://img.shields.io/badge/Firestore-RealtimeDB-orange)](https://firebase.google.com/docs/firestore)
 [![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-Secure-green)](https://firebase.google.com/docs/auth)
@@ -52,6 +54,18 @@ Here’s a glimpse of the FitBuddy app in action:
     <td><img src="https://drive.google.com/uc?id=1XUiBkhpy09kyy6WTUen0OUtHHm7E6-Wt" width="200" height="500"/></td>
   </tr>
 </table>
+
+## 🙌 Acknowledgments  
+
+Special thanks to:  
+
+- **Flutter Community** – For providing an amazing framework to build cross-platform apps.  
+- **Firebase Team** – For seamless backend services, authentication, and real-time database.  
+- **Stripe** – For enabling secure and easy payment integration.  
+- **Google Developers** – For continuously improving Flutter and Firebase.  
+
+This project wouldn't be possible without the amazing open-source community! 🚀  
+
 
 
 
