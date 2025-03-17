@@ -41,6 +41,12 @@ Welcome to my **Flutter-based Food Delivery App**, a seamless and efficient food
 - **AI-based Food Recommendations**
 - **Delivery Partner App for Riders**
 
+## APK Download 📲
+
+You can download the latest APK version of **FitBuddy** below:
+
+[Download APK](https://drive.google.com/file/d/1TJPjnG_WsDXvNn5xNVT7ytXBE5sA-Axz/view?usp=sharing)
+
 ## 📸 Screenshots
 
 Here’s a glimpse of the FitBuddy app in action:
