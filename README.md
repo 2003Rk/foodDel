@@ -1,16 +1,60 @@
-# food_delivery
+# 🍔 Flutter Food Delivery App 🚀
 
-A new Flutter project.
+Welcome to my **Flutter-based Food Delivery App**, a seamless and efficient food ordering solution featuring a powerful **admin panel**, **Firebase integration**, and **Stripe-powered wallet payments**. This project is designed for a smooth user experience, allowing restaurants to manage food categories while ensuring secure transactions.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+[![Firebase](https://img.shields.io/badge/Firebase-v9.0-yellow)](https://firebase.google.com/)
+[![Firestore](https://img.shields.io/badge/Firestore-RealtimeDB-orange)](https://firebase.google.com/docs/firestore)
+[![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-Secure-green)](https://firebase.google.com/docs/auth)
+[![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-Deployed-blue)](https://firebase.google.com/docs/hosting)
+[![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-Serverless-purple)](https://firebase.google.com/docs/functions)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📱 User Features
+- **Easy Food Ordering** – Browse and order from a variety of food categories.
+- **Smooth UI/UX** – Built with Flutter for a modern and responsive experience.
+- **Secure Payments** – Integrated **Stripe** wallet system for seamless transactions.
+- **Real-time Order Tracking** – Track your orders with live updates.
+- **Authentication** – Firebase Authentication for secure sign-ins.
+
+### 🛠️ Admin Panel Features
+- **Manage Food Categories** – Easily add, edit, or remove food items.
+- **Order Management** – View, process, and update orders in real time.
+- **User Management** – Manage customers and their activity.
+- **Firebase Integration** – Secure and efficient backend with Firestore.
+- **Dashboard Analytics** – Track sales, user engagement, and more.
+
+## 🏗️ Tech Stack
+- **Frontend:** Flutter (Dart)
+- **Backend:** Firebase Firestore
+- **Payments:** Stripe API
+- **Authentication:** Firebase Auth
+- **State Management:** Provider / Riverpod (choose based on implementation)
+
+## 🚀 Future Plans
+- **Publishing on Play Store & App Store**
+- **Push Notifications for Order Updates**
+- **AI-based Food Recommendations**
+- **Delivery Partner App for Riders**
+
+## 📸 Screenshots
+
+Here’s a glimpse of the FitBuddy app in action:
+
+<table align="center">
+  <tr>
+    <td><img src="https://drive.google.com/uc?id=1y16_Q4xgsl_52Ab2IouoW1Cif3JWYJQK" width="200" height="500"/></td>
+    <td width="50"></td> <!-- This adds spacing -->
+    <td><img src="https://drive.google.com/uc?id=1AUqPSGfxq_2PBPAc0xTUGYsCmSvqyij5" width="200" height="500"/></td>
+    <td width="50"></td> <!-- This adds spacing -->
+    <td><img src="https://drive.google.com/uc?id=1XUiBkhpy09kyy6WTUen0OUtHHm7E6-Wt" width="200" height="500"/></td>
+  </tr>
+</table>
+
+
+
+## 💳 Payment Setup (Stripe)
+- Configure Stripe API keys in the project.
+- Set up webhook for real-time payment confirmation.
