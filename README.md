@@ -49,13 +49,13 @@ Download & Install :
 
 ## APK Download 📲
 
-You can download the latest APK version of **FitBuddy** below:
+You can download the latest APK version of **FOOD DEL** below:
 
 [Download APK](https://github.com/2003Rk/foodDel/releases/download/v1.0.0/app-release.apk)
 
 ## 📸 Screenshots
 
-Here’s a glimpse of the FitBuddy app in action:
+Here’s a glimpse of the FOOD DEL app in action:
 
 <table align="center">
   <tr>
