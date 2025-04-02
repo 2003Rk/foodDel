@@ -45,7 +45,7 @@ Welcome to my **Flutter-based Food Delivery App**, a seamless and efficient food
 
 You can download the latest APK version of **FitBuddy** below:
 
-[Download APK](https://drive.google.com/file/d/1TJPjnG_WsDXvNn5xNVT7ytXBE5sA-Axz/view?usp=sharing)
+[Download APK](https://github.com/2003Rk/foodDel/releases/download/v1.0.0/app-release.apk)
 
 ## 📸 Screenshots
 
