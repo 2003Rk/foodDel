@@ -2,6 +2,12 @@
 
 Welcome to my **Flutter-based Food Delivery App**, a seamless and efficient food ordering solution featuring a powerful **admin panel**, **Firebase integration**, and **Stripe-powered wallet payments**. This project is designed for a smooth user experience, allowing restaurants to manage food categories while ensuring secure transactions.
 
+Download & Install : 
+
+📥 Click below to download the latest APK:
+
+📥 APK : https://github.com/2003Rk/foodDel/releases/download/v1.0.0/app-release.apk
+
 [![Flutter](https://img.shields.io/badge/Flutter-v2.10.5-blue)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-v2.18-blue)](https://dart.dev/)
 [![Stripe](https://img.shields.io/badge/Stripe-Payments-blueviolet)](https://stripe.com/)
@@ -72,9 +78,9 @@ Special thanks to:
 
 This project wouldn't be possible without the amazing open-source community! 🚀  
 
+## 📧 Contact
 
+- **Developer:** Rahul Kumar  
+- **Email:** rahulkr99222@gmail.com 
+- **LinkedIn:** [Your Profile](www.linkedin.com/in/rahul-kr2000)  
 
-
-## 💳 Payment Setup (Stripe)
-- Configure Stripe API keys in the project.
-- Set up webhook for real-time payment confirmation.
