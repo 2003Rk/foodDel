@@ -82,5 +82,5 @@ This project wouldn't be possible without the amazing open-source community! ðŸš
 
 - **Developer:** Rahul Kumar  
 - **Email:** rahulkr99222@gmail.com 
-- **LinkedIn:** [Your Profile](www.linkedin.com/in/rahul-kr2000)  
+- **LinkedIn:** [Connect](www.linkedin.com/in/rahul-kr2000)  
 
