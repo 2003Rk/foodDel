@@ -32,7 +32,7 @@ Download & Install :
 - **Order Management** – View, process, and update orders in real time.
 - **User Management** – Manage customers and their activity.
 - **Firebase Integration** – Secure and efficient backend with Firestore.
-- **Dashboard Analytics** – Track sales, user engagement, and more.
+
 
 ## 🏗️ Tech Stack
 - **Frontend:** Flutter (Dart)
